@@ -6,7 +6,6 @@ InStock is a full-stack warehouse inventory management application. It features 
 
 1. [Screenshots + Functionality](#screenshots)
 2. [Tech Stack](#tech-stack)
-3. [Future Improvements](#future-improvements)
 
 ## Screenshots
 
@@ -22,18 +21,15 @@ InStock is a full-stack warehouse inventory management application. It features 
 
 - Search by city using Google Places autocomplete, and by tags dropdown
 
-### Explore events / manage attendees
+  ![image1](https://user-images.githubusercontent.com/107284019/211252349-00c62bf2-cf38-4ee4-b40f-0407576c02c4.png)
+  ![image1](https://user-images.githubusercontent.com/107284019/211252339-6090b765-2e62-4709-9b53-21c06319319a.png)
 
-- Google Maps API pinpoints restaurant location
-- Event is fully editable using a patch request to the server
-- Host can easily view attendee profiles and reject and accept requests
+### Add New Warehouse / Add New Inventory Item
 
-### Create events
-
-- User is able to upload an image using react-uploader library
-- Google Places library auto completes address form filling
-
-### Profile page
+- Form uses controlled controlled components with validation
+  ![image2](https://user-images.githubusercontent.com/107284019/211253089-627f3670-a645-4d64-8ff1-3de45501e82d.png)
+  ![image3](https://user-images.githubusercontent.com/107284019/211253092-13a6748f-1b7b-4bb3-85bc-dfbe84205489.png)
+  ![image1](https://user-images.githubusercontent.com/107284019/211253102-eafa129b-2e2a-45e5-8d54-3498a0441d00.png)
 
 ## Tech Stack
 
@@ -41,8 +37,3 @@ InStock is a full-stack warehouse inventory management application. It features 
 - Backend: NodeJS/Express
 - Database: MySQL, Knex
 - Styling: HTML, CSS, SASS
-
-## Future Improvements
-
-- Marketing page
-- Notifications when attendee requests sign up for an event and when a request has been accepted/rejected
