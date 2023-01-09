@@ -14,7 +14,7 @@ InStock is a full-stack warehouse inventory management application built with Re
 - Fully responsive for desktop, tablet, and mobile
 
   ![image2](https://user-images.githubusercontent.com/107284019/211250255-4ef4df93-18f7-44c9-ba87-c35018ddc55b.png)
-  ![image3](https://user-images.githubusercontent.com/107284019/211250264-6b898967-b6f0-413b-8a52-8d84a471edcc.png)
+  ![image3](https://user-images.githubusercontent.com/107284019/211255027-846bb982-20d6-43f5-ab26-413a2199e5cd.png)
   ![image1](https://user-images.githubusercontent.com/107284019/211250116-f0f69787-cae5-4a2f-91df-55e0d0eb2929.png)
 
 ### Warehouse Details / Inventory Details
