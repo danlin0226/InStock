@@ -1,6 +1,6 @@
 # InStock
 
-InStock is a full-stack warehouse inventory management application built with React, Express, NodeJS, and MYSQL. This agile team project was managed with Jira.
+InStock is a full-stack warehouse inventory management application built with React, Express, NodeJS, and MYSQL. This was an agile team project managed with Jira.
 
 ## Table of Contents
 
